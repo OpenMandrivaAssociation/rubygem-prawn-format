@@ -45,3 +45,10 @@ rm -rf %buildroot
 %{ruby_gemdir}/gems/%{oname}-%{version}/spec/
 %{ruby_gemdir}/cache/%{oname}-%{version}.gem
 %{ruby_gemdir}/specifications/%{oname}-%{version}.gemspec
+
+
+%changelog
+* Wed Nov 03 2010 Rémy Clouard <shikamaru@mandriva.org> 0.2.3-1mdv2011.0
++ Revision: 592794
+- import rubygem-prawn-format
+

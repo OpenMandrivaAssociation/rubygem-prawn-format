@@ -2,7 +2,7 @@
 
 Name:       rubygem-%{oname}
 Version:    0.2.3
-Release:    %mkrel 1
+Release:    2
 Summary:    An extension of Prawn that allows inline formatting
 Group:      Development/Ruby
 License:    GPLv2+

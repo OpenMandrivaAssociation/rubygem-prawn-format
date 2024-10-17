@@ -6,7 +6,7 @@ Release:    2
 Summary:    An extension of Prawn that allows inline formatting
 Group:      Development/Ruby
 License:    GPLv2+
-URL:        http://rubyforge.org/projects/prawn
+URL:        https://rubyforge.org/projects/prawn
 Source0:    http://rubygems.org/gems/%{oname}-%{version}.gem
 BuildRoot:  %{_tmppath}/%{name}-%{version}-%{release}
 Requires:   rubygems
